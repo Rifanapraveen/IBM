@@ -1,10 +1,14 @@
 GitHub repository link:https://github.com/Rifanapraveen/IBM.git
 Phase1:https://github.com/Rifanapraveen/IBM/blob/e41585603a82232543f86d04dee0a1508770563a/Phase%201%20Report.pdf
 Phase2:https://github.com/Rifanapraveen/IBM/blob/e41585603a82232543f86d04dee0a1508770563a/cloud%20application%20development_phase2.pdf
+
 Phase3:https://github.com/Rifanapraveen/IBM/blob/e41585603a82232543f86d04dee0a1508770563a/CAD_phase%203.pdf
+
 Phase4:https://github.com/Rifanapraveen/IBM/blob/e41585603a82232543f86d04dee0a1508770563a/CAD_Phase%204.pdf
+
 Phase5:https://github.com/Rifanapraveen/IBM/blob/e41585603a82232543f86d04dee0a1508770563a/CAD_PHASE5.pdf               
 ## How to deploy the image recognition system using IBM Cloud and the web interface
+
 
 
 
